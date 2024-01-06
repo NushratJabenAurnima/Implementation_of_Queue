@@ -13,8 +13,6 @@ It follows the order of First in First out(FIFO).**
 **. Display**
 
   ## The system contains the following functions:
-  **. IsEmpty()**
-  
   **. enqueue()**
   
   **. print()**
