@@ -1,6 +1,13 @@
 #include <stdio.h>
 #define MAX 5
 
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Project Done by &copy; Nushrat Jaben Aurnima. All Rights Reserved .</h2>
+</body>
+</html>
+    
 int q[MAX], f =-1, r =-1;
 int enqueue(int data)
 {
